@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,9 +10,9 @@ redirect_from:
 
 I'm a final year undergraduate CS student from Fudan University, seeking for possibility to do a phd.
 
-My research interests are Data Mining and Database. Previously I did several Data Mining Projects at Fudan and did a project about Generative Models at HKUST with Prof. Tong Zhang. I'm always thinking about how can I be unique in this competitive field. As a CS student, I think the answer is doing research both on math and system. I love math, while I also need to do efficient implementation beyond the proof.
+My research interests are Data Mining and Database. Previously I did several Data Mining Projects at Fudan and did a project about Generative Models at HKUST with Prof. Tong Zhang. I'm always thinking about how can I be unique in this competitive field. As a CS student, I think the answer is doing research on math *and* system. I love math, while I also need to do efficient implementation according to both algorithms and systems.
 
-You can find me CV here [html/pdf].
+You can find me CV here [[html](https://haicang.github.io/cv/)/[pdf](https://haicang.github.io/files/HaicangZhou.pdf)].
 
 # Education
 
