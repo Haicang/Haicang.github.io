@@ -13,7 +13,7 @@ redirect_from:
 
 B.S. in computer science, [Fudan University](https://www.fudan.edu.cn/en/), 2020
 - Overall GPA: 3.69/4.0 (Rank: 14/155); Major GPA: 3.81
-- Before CS, I spent 2 wonder years in EE
+- Before CS, I spent 2 wonderful years in EE
 
 
 ## Research Experience
