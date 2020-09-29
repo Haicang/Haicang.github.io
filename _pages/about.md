@@ -8,19 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year undergraduate CS student from Fudan University, seeking for possibility to do a phd.
+I'm a PhD student in Nanyang Technological University (NTU), supervised by Prof [Gao Cong](https://www.ntu.edu.sg/home/gaocong/) & Prof [Yew-Soon Ong](https://www.ntu.edu.sg/home/asysong/). Before joining NTU, I was an undergraduate student in Fudan University, supervised by Prof [Zengfeng Huang](http://home.cse.ust.hk/~huangzf/). I also worked with Prof Tong Zhang in HKUST during the summer of 2019.
 
-My research interests are Data Mining and Database. Previously I did several Data Mining Projects at Fudan and did a project about Generative Models at HKUST with Prof. Tong Zhang. I'm always thinking about how can I be unique in this competitive field. As a CS student, I think the answer is doing research on math *and* system. I love math, while I also need to do efficient implementation according to both algorithms and systems.
-
-You can find me CV here [[html](https://haicang.github.io/cv/)/[pdf](https://haicang.github.io/files/HaicangZhou.pdf)].
+<!-- You can find me CV here [[html](https://haicang.github.io/cv/)/[pdf](https://haicang.github.io/files/HaicangZhou.pdf)]. -->
 
 # Education
 
-- B.S. in computer science, [Fudan University](https://www.fudan.edu.cn/en/), 2020
-	- Overall GPA: 3.69/4.0 (Rank: 14/155); Major GPA: 3.81
-	- Before CS, I spent 2 wonderful years in EE
+- PhD student in Computer Science & Technology, [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/Pages/home.aspx), 2020 - Now
 
-# Research Experience
+- B.S. in Computer Science, [Fudan University](https://www.fudan.edu.cn/en/), 2020
+    - Outstanding Gradute
+    - Before CS, I spent 2 wonderful years in EE
 
 - Visiting Student @ [HKUST](https://www.ust.hk/), advisor: Prof. [Tong Zhang](http://tongzhang-ml.org/), 2019.07-2019.08
-- Research Assistant @ [Fudan](https://www.fudan.edu.cn/en/), advisor: Prof. [Zengfeng Huang](http://www.cse.ust.hk/~huangzf/) / Prof. [Yun Xiong](http://www.cs.fudan.edu.cn/?page_id=1979), 2017.05-present

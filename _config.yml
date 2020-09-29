@@ -83,7 +83,7 @@ author:
   name             : "周海沧"
   avatar           : "profile.png"
   bio              : "Haicang Zhou"
-  location         : "Shanghai"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -265,6 +265,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-github-metadata
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
