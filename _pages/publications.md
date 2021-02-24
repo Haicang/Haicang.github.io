@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publication on [DBLP](https://dblp.uni-trier.de/pid/268/6822.html).
+You can find my publication on [DBLP](https://dblp.uni-trier.de/pid/268/6822.html).
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

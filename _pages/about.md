@@ -26,4 +26,4 @@ I'm a PhD student in Nanyang Technological University (NTU), supervised by Prof 
 
 ## Publication
 
-You can also find my publication on [DBLP](https://dblp.uni-trier.de/pid/268/6822.html).
+You can find my publication on [DBLP](https://dblp.uni-trier.de/pid/268/6822.html).
